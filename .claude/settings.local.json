@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"%USERPROFILE%\\.basicmemory\")",
+      "Bash(dir \"%APPDATA%\\basic-memory\")",
+      "Bash(basic-memory project remove:*)",
+      "Bash(basic-memory project add:*)",
+      "Bash(basic-memory project default obsidian-vault)",
+      "Bash(basic-memory project:*)",
+      "Bash(basic-memory:*)",
+      "Bash(dir \"%APPDATA%\\Claude\\logs\")",
+      "Bash(npx obsidian-mcp-server:*)",
+      "Bash(curl:*)",
+      "Bash(cat:*)",
+      "Bash(python -m json.tool:*)",
+      "Bash(powershell:*)",
+      "Bash(schtasks /query:*)",
+      "Bash(cmd //c schtasks /query /fo LIST)",
+      "Bash(git --version:*)",
+      "Bash(dir:*)",
+      "Bash(git init:*)",
+      "Bash(git worktree:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
