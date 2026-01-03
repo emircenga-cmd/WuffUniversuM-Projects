@@ -1,8 +1,8 @@
 # Auto-Backup Script for Projects Folder
 # Runs every 5 hours to backup Projects folder to GitHub (Koding repo)
 
-$projectPath = "C:\Claude Code Projects\Projects\Koding"
-$logFile = "C:\Claude Code Projects\Projects\00_SYSTEM\backup.log"
+$projectPath = "C:\Claude Code Projects\WuffUniversuM-Projects\Koding"
+$logFile = "C:\Claude Code Projects\WuffUniversuM-Projects\00_SYSTEM\backup.log"
 
 function Write-Log {
     param($message)
@@ -42,3 +42,4 @@ try {
 }
 
 Write-Log "=== Auto-backup finished ==="
+
