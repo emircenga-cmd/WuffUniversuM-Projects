@@ -1,0 +1,30 @@
+# Version control
+.git
+.svn
+
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+build
+.cache
+
+# Code files (NOT knowledge)
+*.py
+*.js
+*.json
+*.ts
+*.tsx
+*.jsx
+src/
+lib/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

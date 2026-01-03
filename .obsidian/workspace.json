@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "23fe30f6dd7a2655",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6b1bc35cf61b622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20807c4d8cce5cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Koding/knowledge/gemini as subagent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gemini as subagent"
+            }
+          },
+          {
+            "id": "59c98b3a63b8028a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Koding/knowledge/FINALNA ARHITEKTURA - Orchestrator i Sub-Agenti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FINALNA ARHITEKTURA - Orchestrator i Sub-Agenti"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "194b04fcc2eaf3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "da73ccc93ea03943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73b1b627cd8b161c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb51bacb6798a52f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc88d80e2d4406dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a1c1af1374d29af",
+    "type": "split",
+    "children": [
+      {
+        "id": "cded03a0a61d0199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beb30bb79564127f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_SYSTEM/BASIC-MEMORY-MASTER-GUIDE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BASIC-MEMORY-MASTER-GUIDE"
+            }
+          },
+          {
+            "id": "cf9f5e3b718c98f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_SYSTEM/BASIC-MEMORY-MASTER-GUIDE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BASIC-MEMORY-MASTER-GUIDE"
+            }
+          },
+          {
+            "id": "8d3cc8efb2b7f469",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aad62888a8d275b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e5ae113f508c03c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_SYSTEM/BASIC-MEMORY-MASTER-GUIDE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BASIC-MEMORY-MASTER-GUIDE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "59c98b3a63b8028a",
+  "lastOpenFiles": [
+    "Koding/knowledge/Sub-Agent System Prompts - How They Work.md",
+    "Koding/knowledge/Specialized Agents with Own Memory - Advanced Pattern.md",
+    "Koding/knowledge/Gemini deep research na osnovu prompta.md",
+    "Koding/knowledge/Gemini custom agent with subagents.md",
+    "Koding/knowledge/gemini as subagent.md",
+    "00_SYSTEM/BASIC-MEMORY-MASTER-GUIDE.md",
+    "00_SYSTEM/setup-auto-backup-task.ps1",
+    "00_SYSTEM/setup-auto-backup-task.ps1.tmp.76872.1767481433144",
+    "00_SYSTEM/auto-backup-projects.ps1",
+    "Gemini Agent/Gemini custom agent sa subagents.md",
+    "Gemini Agent",
+    "New folder",
+    "Koding/CLAUDE.md",
+    "00_SYSTEM/MCP-BASIC-MEMORY-SETUP.md",
+    "00_SYSTEM/CLEANUP-COMPLETED.md",
+    "00_SYSTEM/CLEANUP-COMPLETED.md.tmp.76872.1767468894402",
+    "00_SYSTEM/Claude-Code-Architecture.md",
+    "Koding/README.md",
+    "Koding/docs/PROJECT_MEMORY.md",
+    "Koding/docs/WUFF-MASTER-BLUEPRINT-v1.0.md",
+    "Koding/docs/CLICKUP-STRUCTURE-ANALYSIS.md",
+    "Koding/docs/BACKUP-AND-RECOVERY-GUIDE.md",
+    "Koding/docs/WUFF-IMPLEMENTATION-CHECKLIST.md",
+    "Koding/docs/SESSION-START-CHECKLIST.md",
+    "Koding/knowledge/WUFF Orchestrator - Custom Sub-Agent System Setup.md"
+  ]
+}

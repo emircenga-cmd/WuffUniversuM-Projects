@@ -32,7 +32,10 @@
       "Bash(schtasks:*)",
       "Bash(powershell.exe -Command \"Get-Process | Where-Object {$_ProcessName -like ''*Drive*'' -or $_ProcessName -like ''*Google*''} | Select-Object ProcessName,MainWindowTitle | Format-Table -AutoSize\")",
       "Bash(git remote get-url:*)",
-      "Bash(test:*)"
+      "Bash(test:*)",
+      "Bash(powershell.exe -Command \"Get-ScheduledTask | Where-Object {$_TaskName -like ''*Obsidian*'' -or $_TaskName -like ''*Vault*'' -or $_TaskName -like ''*backup*''} | Select-Object TaskName, State, LastRunTime | Format-Table -AutoSize\")",
+      "Bash(powershell.exe:*)",
+      "Bash(git remote:*)"
     ]
   }
 }
