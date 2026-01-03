@@ -6,7 +6,7 @@
 
 ### 1. **Koding Projekat** ✅ SOLVED
 - **Lokacija:** `C:\Claude Code Projects\Projects\Koding\`
-- **GitHub Repo:** https://github.com/emircenga-cmd/wuff-orchestrator
+- **GitHub Repo:** https://github.com/emircenga-cmd/Koding
 - **Status:** ✅ Automatski sync-ovan sa GitHub-om
 - **Backup Strategy:** Git push nakon svake značajne izmjene
 
@@ -160,7 +160,7 @@ mkdir "C:\Claude Code Projects\Projects"
 
 # 2. Clone Koding projekat
 cd "C:\Claude Code Projects\Projects"
-gh repo clone emircenga-cmd/wuff-orchestrator Koding
+gh repo clone emircenga-cmd/Koding Koding
 
 # 3. Clone basic-memory MCP server
 cd "C:\Claude Code Projects\MCPs"
@@ -251,7 +251,7 @@ Ako hitno trebaš samo kod (bez historije):
 
 ```bash
 # Clone samo projekte
-gh repo clone emircenga-cmd/wuff-orchestrator
+gh repo clone emircenga-cmd/Koding
 gh repo clone emircenga-cmd/basic-memory
 
 # Login u Claude Code

@@ -21,7 +21,17 @@
       "Bash(git init:*)",
       "Bash(git worktree:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(du:*)",
+      "Bash(git rev-parse:*)",
+      "Bash(gh:*)",
+      "Bash(winget --version:*)",
+      "Bash(export PATH=\"/c/Program Files/GitHub CLI:$PATH\")",
+      "Bash(git push:*)",
+      "Bash(tasklist:*)",
+      "Bash(schtasks:*)",
+      "Bash(powershell.exe -Command \"Get-Process | Where-Object {$_ProcessName -like ''*Drive*'' -or $_ProcessName -like ''*Google*''} | Select-Object ProcessName,MainWindowTitle | Format-Table -AutoSize\")",
+      "Bash(git remote get-url:*)"
     ]
   }
 }
