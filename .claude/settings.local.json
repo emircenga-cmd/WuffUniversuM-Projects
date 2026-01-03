@@ -31,7 +31,8 @@
       "Bash(tasklist:*)",
       "Bash(schtasks:*)",
       "Bash(powershell.exe -Command \"Get-Process | Where-Object {$_ProcessName -like ''*Drive*'' -or $_ProcessName -like ''*Google*''} | Select-Object ProcessName,MainWindowTitle | Format-Table -AutoSize\")",
-      "Bash(git remote get-url:*)"
+      "Bash(git remote get-url:*)",
+      "Bash(test:*)"
     ]
   }
 }
