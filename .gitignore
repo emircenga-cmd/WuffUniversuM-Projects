@@ -1,0 +1,10 @@
+# Ignore project folders (they have their own repos)
+basic-memory/
+n8n-multi-agent/
+*/
+
+# Only track master files
+!CLAUDE_MASTER_MEMORY.md
+!README.md
+!USAGE_GUIDE.md
+!.gitignore
